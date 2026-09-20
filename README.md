@@ -22,14 +22,14 @@ The following provides my responses to the SQL50 challenges on Leetcode
 - [Confirmation Rate](https://github.com/meganleeharrington/leetcode/blob/main/1934-Confirmation-Rate.sql)
 
 ### Basic Aggregate Functions
-- [Not Boring Movies]
-- [Average Selling Price]
-- [Project Employees I]
-- [Percentage of Users Attended a Contest]
-- [Queries Quality and Percentage]
-- [Monthly Transactions I]
-- [Immediate Food Delivery II]
-- [Game Play Analysis IV]
+- [Not Boring Movies](https://github.com/meganleeharrington/leetcode/blob/main/620-Not-Boring-Movies.sql)
+- [Average Selling Price](https://github.com/meganleeharrington/leetcode/blob/main/1251-Average-Selling-Price.sql)
+- [Project Employees I](https://github.com/meganleeharrington/leetcode/blob/main/1075-Project-Employees-I.sql)
+- [Percentage of Users Attended a Contest](https://github.com/meganleeharrington/leetcode/blob/main/1633-Percentage-of-Users-Attended-a-Contest.sql)
+- [Queries Quality and Percentage](https://github.com/meganleeharrington/leetcode/blob/main/1211-Queries-Quality-and-Percentage.sql)
+- [Monthly Transactions I](https://github.com/meganleeharrington/leetcode/blob/main/1193-Monthly-Transactions-I.sql)
+- [Immediate Food Delivery II](https://github.com/meganleeharrington/leetcode/blob/main/1174-Immediate-Food-Delivery-II.sql)
+- [Game Play Analysis IV](https://github.com/meganleeharrington/leetcode/blob/main/550-Game-Play-Analysis-IV.sql)
 
 ### Sorting and Grouping
 - [Number of Unique Subjects Taught by Each Teacher]
