@@ -4,11 +4,11 @@ The following provides my responses to the SQL50 challenges on Leetcode
 
 
 ### Select
-[Recyclable and Low Fat Products](https://github.com/meganleeharrington/leetcode/blob/main/1757-Recyclable-and-Low-Fat-Products.sql)
-[Find Customer Referee](https://github.com/meganleeharrington/leetcode/blob/main/584-Find-Customer-Referee.sql)
-[Big Countries](https://github.com/meganleeharrington/leetcode/blob/main/595-Big-Countries.sql)
-[Article Views I](https://github.com/meganleeharrington/leetcode/blob/main/1148-Article-Views-I.sql)
-[Invalid Tweets](https://github.com/meganleeharrington/leetcode/blob/main/1683-Invalid-Tweets.sql)
+- [Recyclable and Low Fat Products](https://github.com/meganleeharrington/leetcode/blob/main/1757-Recyclable-and-Low-Fat-Products.sql)
+- [Find Customer Referee](https://github.com/meganleeharrington/leetcode/blob/main/584-Find-Customer-Referee.sql)
+- [Big Countries](https://github.com/meganleeharrington/leetcode/blob/main/595-Big-Countries.sql)
+- [Article Views I](https://github.com/meganleeharrington/leetcode/blob/main/1148-Article-Views-I.sql)
+- [Invalid Tweets](https://github.com/meganleeharrington/leetcode/blob/main/1683-Invalid-Tweets.sql)
 
 ### Basic Joins
 [Replace Employee ID With The Unique Identifier]
