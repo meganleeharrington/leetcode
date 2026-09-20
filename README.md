@@ -41,13 +41,13 @@ The following provides my responses to the SQL50 challenges on Leetcode
 - [Customers Who Bought All Products](https://github.com/meganleeharrington/leetcode/blob/main/Sorting%20and%20Grouping/1045-Customers-Who-Bought-All-Products.sql)
 
 ### Advanced Select and Joins
-- [The Number of Employees Which Report to Each Employee]
-- [Primary Department for Each Employee]
-- [Triangle Judgement]
-- [Consecutive Numbers]
-- [Product Price at a Given Date]
-- [Last Person to Fit in the Bus]
-- [Count Salary Categories]
+- [The Number of Employees Which Report to Each Employee](https://github.com/meganleeharrington/leetcode/blob/main/Advanced%20Select%20and%20Joins/1731-The-Number-of-Employees-Which-Report-to-Each-Employee.sql)
+- [Primary Department for Each Employee](https://github.com/meganleeharrington/leetcode/blob/main/Advanced%20Select%20and%20Joins/1789-Primary-Department-for-Each-Employee.sql)
+- [Triangle Judgement](https://github.com/meganleeharrington/leetcode/blob/main/Advanced%20Select%20and%20Joins/610-Triangle-Judgement.sql)
+- [Consecutive Numbers](https://github.com/meganleeharrington/leetcode/blob/main/Advanced%20Select%20and%20Joins/180-Consecutive-Numbers.sql)
+- [Product Price at a Given Date](https://github.com/meganleeharrington/leetcode/blob/main/Advanced%20Select%20and%20Joins/1164-Product-Price-At-A-Given-Date.sql)
+- [Last Person to Fit in the Bus](https://github.com/meganleeharrington/leetcode/blob/main/Advanced%20Select%20and%20Joins/1204-Last-Person-to-Fit-in-the-Bus.sql)
+- [Count Salary Categories](https://github.com/meganleeharrington/leetcode/blob/main/Advanced%20Select%20and%20Joins/1907-Count-Salary-Categories.sql)
 
 ### Subqueries
 ### Advanced String Functions / Regex / Clause
