@@ -11,15 +11,15 @@ The following provides my responses to the SQL50 challenges on Leetcode
 - [Invalid Tweets](https://github.com/meganleeharrington/leetcode/blob/main/1683-Invalid-Tweets.sql)
 
 ### Basic Joins
-- [Replace Employee ID With The Unique Identifier]
-- [Product Sales Analysis I]
-- [Customer Who Visited But Did Not Make Any Transactions]
-- [Rising Temperature]
-- [Average Time Of Process Per Machine]
-- [Employee Bonus]
-- [Students and Examinations]
-- [Managers With At Least 5 Direct Reports]
-- [Confirmation Rate]
+- [Replace Employee ID With The Unique Identifier](https://github.com/meganleeharrington/leetcode/blob/main/1378-Replace-Employee-ID-With-The-Unique-Identifier.sql)
+- [Product Sales Analysis I](https://github.com/meganleeharrington/leetcode/blob/main/1068-Product-Sales-Analysis-1.sql)
+- [Customer Who Visited But Did Not Make Any Transactions](https://github.com/meganleeharrington/leetcode/blob/main/1581-Customer-Who-Visited-But-Did-Not-Make-Any-Transactions.sql)
+- [Rising Temperature](https://github.com/meganleeharrington/leetcode/blob/main/197-Rising-Temperature.sql)
+- [Average Time Of Process Per Machine](https://github.com/meganleeharrington/leetcode/blob/main/1661-Average-Time-of-Process-per-Machine.sql)
+- [Employee Bonus](https://github.com/meganleeharrington/leetcode/blob/main/577-Employee-Bonus.sql)
+- [Students and Examinations](https://github.com/meganleeharrington/leetcode/blob/main/1280-Students-and-Examinations.sql)
+- [Managers With At Least 5 Direct Reports](https://github.com/meganleeharrington/leetcode/blob/main/570-Managers-With-At-Least-5-Direct-Reports.sql)
+- [Confirmation Rate](https://github.com/meganleeharrington/leetcode/blob/main/1934-Confirmation-Rate.sql)
 
 ### Basic Aggregate Functions
 - [Not Boring Movies]
