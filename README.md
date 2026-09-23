@@ -50,4 +50,19 @@ The following provides my responses to the SQL50 challenges on Leetcode
 - [Count Salary Categories](https://github.com/meganleeharrington/leetcode/blob/main/Advanced%20Select%20and%20Joins/1907-Count-Salary-Categories.sql)
 
 ### Subqueries
+- [Employees Whose Manager Left the Company](https://github.com/meganleeharrington/leetcode/blob/main/Subqueries/1978-Employees-Whose-Manager-Left-the-Company.sql)
+- [Exchange Seats](https://github.com/meganleeharrington/leetcode/blob/main/Subqueries/626-Exchange-Seats.sql)
+- [Movie Rating](https://github.com/meganleeharrington/leetcode/blob/main/Subqueries/1341-Movie-Rating.sql)
+- [Restaurant Growth](https://github.com/meganleeharrington/leetcode/blob/main/Subqueries/1321-Restaurant-Growth.sql)
+- [Friend Requests II: Who Has the Most Friends](https://github.com/meganleeharrington/leetcode/blob/main/Subqueries/602-Friend-Requests-II.sql)
+- [Investments in 2016](https://github.com/meganleeharrington/leetcode/blob/main/Subqueries/585-Investments-in-2016.sql)
+- [Department Top Three Salaries](https://github.com/meganleeharrington/leetcode/blob/main/Subqueries/185-Department-Top-Three-Salaries.sql)
+  
 ### Advanced String Functions / Regex / Clause
+- [Fix Names in a Table](https://github.com/meganleeharrington/leetcode/blob/main/Advanced%20String%20Functions-Regex-Clause/1667-Fix-Names-in-a-Table.sql)
+- [Patients With a Condition](https://github.com/meganleeharrington/leetcode/blob/main/Advanced%20String%20Functions-Regex-Clause/1572-Patients-With-A-Condition.sql)
+- [Delete Duplicate Emails](https://github.com/meganleeharrington/leetcode/blob/main/Advanced%20String%20Functions-Regex-Clause/196-Delete-Duplicate-Emails.sql)
+- [Second Highest Salary](https://github.com/meganleeharrington/leetcode/blob/main/Advanced%20String%20Functions-Regex-Clause/176-Second-Highest-Salary.sql)
+- [Group Sold Products By The Date](https://github.com/meganleeharrington/leetcode/blob/main/Advanced%20String%20Functions-Regex-Clause/1484-Group-Sold-Products-By-The-Date.sql)
+- [List the Products Ordered in a Period](https://github.com/meganleeharrington/leetcode/blob/main/Advanced%20String%20Functions-Regex-Clause/1327-List-The-Products-Ordered-in-a-Period.sql)
+- [Find Users With Valid Emails](https://github.com/meganleeharrington/leetcode/blob/main/Advanced%20String%20Functions-Regex-Clause/1517-Find-Users-With-Valid-Emails.sql)
